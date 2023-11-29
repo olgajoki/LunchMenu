@@ -1,0 +1,7 @@
+# Node.js
+node_modules/
+
+# ExcelJS output
+*.xlsx
+
+#add to menu.js if cert problem: process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
